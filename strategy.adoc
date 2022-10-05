@@ -1,0 +1,27 @@
+Notes for plans
+
+What components needed
+
+Resource Group
+- tags?
+
+Storage Account
+Storage Account Remote State
+- self
+- others
+
+SP Provision/define/scope
+- tags?
+
+KeyVault
+- self 
+- others
+- generic transfer
+
+SNET Admin
+- nsg/udr associations?
+- slices
+
+
+Access Admin
+-
