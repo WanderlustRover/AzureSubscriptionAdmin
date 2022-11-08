@@ -1,2 +1,2 @@
-# AzureSubscriptionAdminModule
-tf module to admin a subscription
+# AzureSubscriptionAdmin
+tf  to admin a subscription
